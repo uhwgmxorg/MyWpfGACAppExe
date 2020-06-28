@@ -1,0 +1,2 @@
+"\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.7 Tools\gacutil" /i "$(TargetPath)" /f /nologo
+"\Program Files (x86)\Microsoft SDKs\Windows\v10.0A\bin\NETFX 4.7 Tools\gacutil" /l "$(TargetName)" /nologo
